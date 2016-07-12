@@ -1,6 +1,6 @@
 ![Logo](http://www.e-xtrategy.net/wp-content/themes/ex2011/images/logo-extrategy-new.png)
 
-# Contract
+# Money Back Guarantee Contract
 
 This contract adopts an iterative formula for the implementation of features and execution of activities identified and defined during our previous meetings.  
 
