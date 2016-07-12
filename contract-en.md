@@ -2,7 +2,7 @@
 
 # Money Back Guarantee Contract
 
-This contract adopts an iterative formula for the implementation of features and execution of activities identified and defined during our previous meetings.  
+This contract adopts an iterative **"money back guarantee"** formula for the implementation of features and execution of activities identified and defined during our previous meetings.  
 
 After your acceptance of this contract, we will start the production activities that are going to take place as following:
 1. A meeting is scheduled in order prioritize all the planned features.
