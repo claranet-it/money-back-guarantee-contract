@@ -1,6 +1,6 @@
 ![Logo](http://www.e-xtrategy.net/wp-content/themes/ex2011/images/logo-extrategy-new.png)
 
-# contratto “soddisfatti o rimborsati”
+# Contratto “soddisfatti o rimborsati”
 
 Il presente contratto prevede l'attuazione di una formula **“soddisfatti o rimborsati”** per la realizzazione delle attività previste ed individuate negli incontri precedentemente effettuati.
 
@@ -18,3 +18,16 @@ Ad ogni iterazione (quindi ogni settimana) il cliente:
 * potrà decidere di cambiare le priorità delle funzionalità previste nella/e successiva/e iterazione/i
 * potrà decidere di aggiungere/togliere delle funzionalità inizialmente previste; ad una diminuzione delle funzionalità corrisponde una diminuzione del numero di iterazioni (e quindi del prezzo), ad un aumento delle funzionalità corrisponde un aumento del numero di iterazioni (e quindi del prezzo). Ogni funzionalità aggiunta verrà stimata insieme al cliente per definirne il “peso” (quindi il prezzo)
 * potrà decidere se interrompere il progetto, senza il bisogno di realizzare ulteriori funzionalità inizialmente previste, perchè non più necessarie; in questo caso al cliente verrà addebitato il costo delle sole iterazioni realizzate
+
+## Budget
+
+Il prezzo per iterazione (settimanale) è di [Inserire Prezzo]€.
+
+I compensi di cui sopra sono al netto dell’IVA.
+Sono escluse le spese di trasferta.
+
+Verrà emessa fattura settimanale alla accettazione di ogni iterazione da saldare tramite bb a vista fattura.
+
+In attesa di un Vs. gradito riscontro porgiamo i più distinti e cordiali saluti.
+
+e-xtrategy srl.
