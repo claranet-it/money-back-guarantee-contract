@@ -1,4 +1,4 @@
-![Logo](http://www.e-xtrategy.net/wp-content/themes/ex2011/images/logo-extrategy-new.png)
+![Logo](http://www.extrategy.net/themes/custom/extrategy/img/logo-extrategy.svg)
 
 # Money Back Guarantee Contract
 
