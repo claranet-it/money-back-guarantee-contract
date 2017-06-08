@@ -21,7 +21,7 @@ By the end of each iteration the client:
 
 * Will have the chance to change the priority of the features that are going to be implemented in the  following iteration/s.
 
-* Can decide to add/remove features from the backlog. A decrease in number of features will be matched by a decrease in number of needed iterations (and the price). As features backlog grows, so will the number of needed iterations (and so the price).
+* Can decide to add/remove features from the backlog. A decrease in number of features will be matched by a decrease in number of needed iterations (and related total cost). As features backlog grows, so will the number of needed iterations (so related total cost).
 
 * Can decide to stop the project, with no development of the previously planned features, considered not necessary anymore; in this case only delivered iterations will be charged to the client.  
 
