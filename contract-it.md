@@ -17,7 +17,7 @@ Ad ogni iterazione (quindi ogni settimana) il cliente:
 * otterrà, in caso di accettazione, una versione del software funzionante ed utilizzabile
 * potrà decidere di cambiare le priorità delle funzionalità previste nella/e successiva/e iterazione/i
 * potrà decidere di aggiungere/togliere delle funzionalità inizialmente previste; ad una diminuzione delle funzionalità corrisponde una diminuzione del numero di iterazioni (e quindi dell'investimento complessivo), ad un aumento delle funzionalità corrisponde un aumento del numero di iterazioni (e quindi dell'investimento complessivo). Ogni funzionalità aggiunta verrà stimata insieme al cliente per definirne il “peso” (quindi il costo)
-* potrà decidere se interrompere il progetto, senza il bisogno di realizzare ulteriori funzionalità inizialmente previste, perchè non più necessarie; in questo caso al cliente verrà addebitato il costo delle sole iterazioni realizzate
+* potrà decidere se interrompere il progetto, senza il bisogno di realizzare ulteriori funzionalità inizialmente previste, perché non più necessarie; in questo caso al cliente verrà addebitato il costo delle sole iterazioni realizzate
 
 ## Budget
 
