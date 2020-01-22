@@ -1,4 +1,4 @@
-![Logo](http://www.extrategy.net/themes/custom/extrategy/img/logo-extrategy.svg)
+![Logo](https://files-dp4m2qbhc.now.sh/)
 
 # Contratto “soddisfatti o rimborsati”
 
