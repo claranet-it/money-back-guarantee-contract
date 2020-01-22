@@ -1,4 +1,4 @@
-![Logo](https://files-dp4m2qbhc.now.sh/)
+![Logo](https://files-dp4m2qbhc.now.sh/ =250x)
 
 # Money Back Guarantee Contract
 
