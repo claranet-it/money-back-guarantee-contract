@@ -31,10 +31,10 @@ The price for each iteration is [Put the price here]€.
 
 The prices are indicated TAX/VAT excluded.
 
-e-xtrategy will deliver an invoice to be payed via bank transfer after each week.
+Flowing will deliver an invoice to be payed via bank transfer after each week.
 
 Awaiting your kind return of this offer signed for confirmation, we'll be available for any clarification needed or further specifications.
 
 Kind Regards,
 
-e-xtrategy Srl.
+Flowing srl.

@@ -30,4 +30,4 @@ Verrà emessa fattura settimanale alla accettazione di ogni iterazione da saldar
 
 In attesa di un Vs. gradito riscontro porgiamo i più distinti e cordiali saluti.
 
-e-xtrategy srl.
+Flowing srl.
