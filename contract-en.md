@@ -1,6 +1,6 @@
-<div style="text-align:center">
+<p align="center">
     <img width="200" alt="flowing logo"  src="https://files-dp4m2qbhc.now.sh/">
-</div>
+</p>
 
 # Money Back Guarantee Contract
 

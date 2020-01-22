@@ -9,6 +9,6 @@ Our basic money back guarantee contract
 
 [Italian](https://github.com/ideatosrl/money-back-guarantee-contract/blob/master/contract-it.md)
 
-<div style="text-align:center">
+<p align="center">
     <img width="200" alt="flowing logo"  src="https://files-dp4m2qbhc.now.sh/">
-</div>
+</p>
