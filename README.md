@@ -1,4 +1,4 @@
-![Logo](https://files-dp4m2qbhc.now.sh/)
+<img width="200" alt="flowing logo" src="https://files-dp4m2qbhc.now.sh/">
 
 # money back guarantee contract
 Our basic money back guarantee contract
