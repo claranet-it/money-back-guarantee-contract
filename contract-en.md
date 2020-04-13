@@ -2,7 +2,7 @@
     <img width="200" alt="flowing logo"  src="https://files-dp4m2qbhc.now.sh/">
 </p>
 
-# Money Back Guarantee Contract
+# Money-Back Guarantee Contract
 
 This contract adopts an iterative **"money back guarantee"** formula for the implementation of features and execution of activities identified and defined during our previous meetings.  
 
