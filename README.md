@@ -2,7 +2,6 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-
 Our basic money back guarantee contract
 
 [English](https://github.com/flowingis/money-back-guarantee-contract/blob/master/contract-en.md)
@@ -12,7 +11,7 @@ Our basic money back guarantee contract
 ## Contract Flowchart
 
 <p align="center">
-    <img alt="Flowchart" src="https://files-dp4m2qbhc.now.sh/">
+    <img width="500" alt="Flowchart" src="https://raw.githubusercontent.com/flowingis/money-back-guarantee-contract/master/Flow.png">
 </p>
 
 
