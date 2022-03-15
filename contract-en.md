@@ -10,7 +10,7 @@ After your acceptance of this contract, we will start the production activities 
 
 1. A meeting is scheduled in order to prioritize all the planned features.
 
-2. The working process will be divided in iterations of 1 week each; in each iteration, there will be a meeting with the client (face to face or with a conference call) during which implemented artifacts will be shown.
+2. The working process will be divided into iterations of 1 week each; in each iteration, there will be a meeting with the client (face to face or with a conference call) during which implemented artifacts will be shown.
 
 3. After each iteration, the client has the chance to accept the delivered artifact and go on to the following iteration or refuse the delivered artifact.
     * in the case of acceptance: we go on through the next iteration, choosing with the client the features to develop.
@@ -25,7 +25,7 @@ By the end of each iteration the client:
 
 * Can decide to add/remove features from the backlog. A decrease in number of features will be matched by a decrease in number of needed iterations (and related total cost). As features backlog grows, so will the number of needed iterations (so related total cost).
 
-* Can decide to stop the project, with no development of the previously planned features, considered not necessary anymore; in this case only delivered iterations will be charged to the client.  
+* Can decide to stop the project, with no development of the previously planned features, considered not necessary anymore; in this case, only delivered iterations will be charged to the client.  
 
 ## Budget
 
@@ -33,7 +33,7 @@ The price for each iteration is [Put the price here]€.
 
 The prices are indicated TAX/VAT excluded.
 
-Flowing will deliver an invoice to be payed via bank transfer after each week.
+Flowing will deliver an invoice to be paid via bank transfer after each week.
 
 Awaiting your kind return of this offer signed for confirmation, we'll be available for any clarification needed or further specifications.
 
